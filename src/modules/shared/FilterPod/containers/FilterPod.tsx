@@ -1,7 +1,7 @@
 import { connect } from 'react-redux';
 import {
   checkCredentials,
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import FilterPodUI from '../components/FilterPodUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

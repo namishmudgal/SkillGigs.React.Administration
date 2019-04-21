@@ -1,7 +1,7 @@
 import { connect } from 'react-redux';
 import {
   checkCredentials,
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import ResultPodUI from '../components/ResultPodUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

@@ -3,7 +3,7 @@ import {
   onSearchRequest,
   onLocationRequest,
   onSearchToggle
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import SearchBarWithFiltersUI from '../components/SearchBarWithFiltersUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

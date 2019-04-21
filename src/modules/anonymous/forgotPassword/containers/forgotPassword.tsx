@@ -2,7 +2,7 @@ import { connect } from 'react-redux';
 import {
   onRequestEmailCode,
   resetForgetPasswordError,
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import ForgotPasswordUI from '../components/ForgotPasswordUI';
 
 const mapStateToProps = (state: any) => ({

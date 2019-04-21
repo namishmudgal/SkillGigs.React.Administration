@@ -1,7 +1,7 @@
 import { connect } from 'react-redux';
 import {
   onSkillListingRequest,
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import SkillListingPageUI from '../components/SkillListingPageUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

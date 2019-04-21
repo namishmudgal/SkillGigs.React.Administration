@@ -3,7 +3,7 @@ import {
   onGetSkillDensityRequest,
   onPostSkillDensityRequest,
   onReqSkillRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import SkillDensityUI from '../components/SkillDensityUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

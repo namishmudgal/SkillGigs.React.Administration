@@ -3,7 +3,7 @@ import {
   onCompanyProfileRequest,
   onCultureImageUploadRequest,
   onDeleteImageDetailsRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import PhotoManagerUI from '../components/PhotoManagerUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

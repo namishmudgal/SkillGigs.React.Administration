@@ -1,7 +1,7 @@
 import { connect } from 'react-redux';
 import {
   onCompanyProfileRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import PeopleDetailsUI from '../components/PeopleDetailsUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

@@ -4,7 +4,7 @@ import {
   onLocationRequest,
   onGetDropDownData,
   onEmployerAccountUpdateRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import EditEmployerAccountUI from '../components/EditEmployerAccountUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

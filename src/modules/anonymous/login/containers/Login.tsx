@@ -3,7 +3,7 @@ import {
   checkCredentialsNode,
   onSocialLoginSuccess,
   resetLoginError
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import LoginPageUI from '../components/LoginPageUI';
 
 const mapStateToProps = (state: any) => ({

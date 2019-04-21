@@ -5,7 +5,7 @@ import MobileLoggedInNavigation from '../../common/components/header/MobileLogge
 import { connect } from 'react-redux';
 import {
   logoutSession,
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import { Button, Icon, Grid, Header, Image } from 'semantic-ui-react';
 import { NavLink } from 'react-router-dom';
 

@@ -2,7 +2,7 @@ import { connect } from 'react-redux';
 import {
   onCompanyProfileRequest,
   onEmployerAccountUpdateRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import CompanyProfilePageUI from '../components/CompanyProfilePageUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

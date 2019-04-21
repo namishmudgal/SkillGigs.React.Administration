@@ -2,7 +2,7 @@ import { connect } from 'react-redux';
 import {
   onSuggestionRequest,
   onSearchRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import CreateSkillListingUI from '../components/CreateSkillListingUI';
 
 const mapStateToProps = (state: any) => ({

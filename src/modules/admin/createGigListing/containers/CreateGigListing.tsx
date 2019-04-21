@@ -6,7 +6,7 @@ import {
   onReqSkillRequest,
   onDesSkillRequest,
   onGigCreateRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import CreateGigListingUI from '../components/CreateGigListingUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

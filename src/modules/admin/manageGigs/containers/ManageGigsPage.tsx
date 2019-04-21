@@ -2,7 +2,7 @@ import { connect } from 'react-redux';
 import {
   onGigPagingRequest,
   onGetDropDownData,
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import ManageGigsPageUI from '../components/ManageGigsPageUI';
 import config from '../../../../config';
 

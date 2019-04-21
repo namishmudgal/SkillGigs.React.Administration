@@ -2,7 +2,7 @@ import { connect } from 'react-redux';
 import {
 	onSearchRequest,
 	onSearchToggle
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import SearchPaginationUI from '../components/SearchPaginationUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

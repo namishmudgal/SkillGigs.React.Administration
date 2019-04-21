@@ -2,7 +2,7 @@ import { connect } from 'react-redux';
 import {
   onRequestEmailResend,
   resetResendEmailError,
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import ResendConfirmationUI from '../components/ResendConfirmationUI';
 
 const mapStateToProps = (state: any) => ({

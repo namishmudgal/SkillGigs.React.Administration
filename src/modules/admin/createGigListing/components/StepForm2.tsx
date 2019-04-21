@@ -3,7 +3,7 @@ import { Form, Input, Loader, Button, Dropdown, Message } from 'semantic-ui-reac
 import TextEditor from '../../../common/components/TextEditor';
 import CreatableSelect from 'react-select/lib/Creatable';
 import { removeEmpty } from '../../../../utilities/helper';
-import { browser } from 'src/redux/reducer/browser';
+import { browser } from 'src/shared/SkillGigs.React.Redux/administration/redux/reducer/browser';
 import browserHistory from 'src/router/browserHistory';
 
 interface Props {

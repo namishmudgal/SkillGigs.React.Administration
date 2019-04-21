@@ -4,7 +4,7 @@ import {
   onUpdateImageDetailsRequest,
   onDeleteImageDetailsRequest,
   onCultureImageUploadRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import PeopleWizardUI from '../components/PeopleWizardUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

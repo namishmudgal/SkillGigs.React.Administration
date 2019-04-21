@@ -2,7 +2,7 @@ import { connect } from 'react-redux';
 import {
   onGetEmployerTeamRequest,
   onPostEmployerTeamRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import EmployerTeamUI from '../components/EmployerTeamUI';
 
 const mapStateToProps = (state: any, ownProps: any) => ({

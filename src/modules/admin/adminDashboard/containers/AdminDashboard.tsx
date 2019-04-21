@@ -2,7 +2,7 @@ import { connect } from 'react-redux';
 import {
   onSuggestionRequest,
   onSearchRequest
-} from 'src/redux/actions/ItemsAction';
+} from 'src/shared/SkillGigs.React.Redux/administration/redux/actions/ItemsAction';
 import AdminDashboardUI from '../components/AdminDashboardUI';
 
 const mapStateToProps = (state: any) => ({
