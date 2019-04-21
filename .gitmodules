@@ -1,0 +1,3 @@
+[submodule "src/shared/SkillGigs.React.Redux"]
+	path = src/shared/SkillGigs.React.Redux
+	url = https://github.com/namishmudgal/SkillGigs.React.Redux.git
