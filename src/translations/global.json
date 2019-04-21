@@ -1,0 +1,48 @@
+{
+	"mobileHeader": {
+		"employerLinkText": ["EMPLOYER", "", ""],
+		"aboutUsLinkText": ["ABOUT US", "", ""],
+		"signinLinkText": ["SIGN IN", "", ""],
+		"signUpLinkText": ["SIGN UP", "", ""],
+		"homeText": ["HOME", "", ""]
+	},
+	"largeHeader": {
+		"employerLinkText": ["EMPLOYER", "", ""],
+		"aboutUsLinkText": ["ABOUT US", "", ""],
+		"loginLinkText": ["LOG IN", "", ""],
+		"searchText": ["Search", "", ""]
+	},
+	"footer": {
+		"learnText": ["LEARN", "", ""],
+		"blogText": ["Blog", "", ""],
+		"resourcesText": ["Resources", "", ""],
+		"ourStoryText": ["OUR STORY", "", ""],
+		"aboutUsText": ["About Us", "", ""],
+		"contactUsText": ["Contact Us", "", ""],
+		"talentText": ["TALENT", "", ""],
+		"techTalentText": ["Tech Talent", "", ""],
+		"healthcareTalentText": ["Healthcare Talent", "", ""],
+		"engineeringTalentText": ["Engineering Talent", "", ""],
+		"realMarketValueText": ["Real Market Value", "", ""],
+		"talentFAQText": ["Talent FAQ", "", ""],
+		"talentBlogText": ["Talent Blog", "", ""],
+		"employersText": ["EMPLOYERS", "", ""],
+		"homeText": ["Home", "", ""],
+		"techHiring": ["Tech Hiring", "", ""],
+		"healthcareHiringText": ["Healthcare Hiring", "", ""],
+		"engineeringHiringText": ["Engineering Hiring", "", ""],
+		"contractorsText": ["Contractors", "", ""],
+		"hiringResourcesText": ["Hiring Resources", "", ""],
+		"employerFAQText": ["Employer FAQ", "", ""],
+		"employerBlogText": ["Employer Blog", "", ""],
+		"securityText": ["Security", "", ""],
+		"platformIntegrationsText": ["Platform Integrations", "", ""],
+		"aiRecruiterText": ["AI Recruiter", "", ""],
+		"gigPodcastText": ["Gig Podcast", "", ""],
+		"gigTVText": ["Gig TV", "", ""],
+		"privacyText": ["PRIVACY", "", ""],
+		"privacyPolicyText": ["Privacy Policy", "", ""],
+		"cookiePolicyText": ["Cookie Policy", "", ""],
+		"termsofServiceText": ["Terms of Service", "", ""]
+	}
+}

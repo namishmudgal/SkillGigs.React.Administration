@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  backend:
+    image: skillgigstech/skillgigs-backend-api:2019.04.15.1
+    container_name: backend
+    ports:
+      - 3100:3100
+  administration:
+    build: ./
+    image: skillgigstech/skillgigs.react.administration:2019.04.15.1
+    container_name: administration
+    ports:
+      - 3000:3000
+    links:
+      - backend

@@ -1,0 +1,150 @@
+{
+	"login": {
+			"title": ["Sign In", "Se Connecter", "Einloggen"],
+			"facebookBtnText": ["SIGN IN WITH FACEBOOK", "CONNECTEZ-VOUS AVEC FACEBOOK", "MIT FACEBOOK ANMELDEN"],
+			"linkedinBtnText": ["SIGN IN WITH LINKEDIN", "CONNEXION AVEC LINKEDIN" ,"MIT LINKEDIN ANMELDEN"],
+			"seperatorText": ["OR SIGN IN WITH EMAIL", "OU CONNEXION AVEC EMAIL", "ODER MIT EMAIL ANMELDEN"],
+			"emailLabel": ["Email", "Email", "Email"],
+			"emailPlaceholder": ["Email address", "Adresse électronique", "E-Mail-Addresse"],
+			"passwordPlaceholder": ["Password", "Mot de passe", "Passwort"],
+			"passwordLabel": ["Password", "Mot de passe", "Passwort"],
+			"signInBtnText": ["SIGN IN", "SE CONNECTER", "EINLOGGEN"],
+			"forgotPasswordText": ["Forgot Password", "Mot de passe oublié", "Passwort vergessen"],
+			"resendConfirmationText": ["Resend Confirmation Email", "Renvoyer un courriel de confirmation", "Bestätigungsmail erneut senden"],
+			"signupText": ["Sign Up For SkillGigs", "Inscrivez-vous à SkillGigs", "Melden Sie sich für SkillGigs an"]
+	},
+	"signup": {
+		"title": ["Sign Up", "S'inscrire", "Anmelden"],
+		"talentBtnText": ["I'm the Talent", "Je suis le talent", "Ich bin das Talent"],
+		"employerBtnText": ["I'm the Employer", "Je suis l'employeur", "Ich bin der Arbeitgeber"],
+		"alreadyAccountText": ["Already Have An Account?", "Vous avez déjà un compte?", "Hast du schon ein Konto?"]
+	},
+	"signupTalent": {
+		"title": ["Sign Up", "S'inscrire", "Anmelden"],
+		"facebookBtnText": ["SIGN UP WITH FACEBOOK", "INSCRIVEZ-VOUS AVEC FACEBOOK", "ANMELDEN MIT FACEBOOK"],
+		"linkedinBtnText": ["SIGN UP WITH LINKEDIN", "INSCRIVEZ-VOUS AVEC LINKEDIN" ,"ANMELDEN MIT LINKEDIN"],
+		"seperatorText": ["OR SIGN UP WITH EMAIL", "S'ENREGISTRER AVEC L'ADRESSE E-MAIL", "REGISTRIEREN SIE SICH MIT IHRER E-MAIL ADRESSE"],
+		"fullnameLabel": ["Full name", "Nom complet", "Vollständiger Name"],
+		"fullnamePlaceholder": ["Full name", "Nom complet", "Vollständiger Name"],
+		"emailLabel": ["Email", "Email", "Email"],
+		"emailPlaceholder": ["Email address", "Adresse électronique", "E-Mail-Addresse"],
+		"passwordPlaceholder": ["Password", "Mot de passe", "Passwort"],
+		"passwordLabel": ["Password", "Mot de passe", "Passwort"],
+		"signupBtnText": ["SIGN UP", "S'INSCRIRE", "ANMELDEN"],
+		"bottomTextPart1": ["By clicking ", "En cliquant sur ", "Indem Sie auf "],
+		"bottomTextPart2": ["Sign Up", "Inscription", "Anmelden"],
+		"bottomTextPart3": [" you are accepting our ", ", vous acceptez notre ", " klicken, akzeptieren Sie unsere "],
+		"bottomTextPart4": ["Terms of Service", "Conditions d'utilisation", "Nutzungsbedingungen"],
+		"alreadyAccountText": ["Already Have An Account?", "Vous avez déjà un compte?", "Hast du schon ein Konto?"]
+	},
+	"signupEmployer": {
+		"leftSectionTitleCTR": ["Access to Top Contract Talent - Basic Plan", "Accès au meilleur contractant - Plan de base", "Zugang zu Top Contract Talent - Grundplan"],
+		"leftSectionListHeaderCTR": ["The contract talent on our platform are:", "Les talents contractuels sur notre plateforme sont:", "Das Vertragstalent auf unserer Plattform sind:"],
+		"leftSectionList1CTR": ["Responsive and ready to be hired", "Réactif et prêt à être embauché", "Reaktionsschnell und bereit, angestellt zu werden"],
+		"leftSectionList2CTR": ["Searchable by their skills, experience level and location preferences", "Consultable par leurs compétences, leur niveau d'expérience et leurs préférences géographiques", "Durchsuchbar nach ihren Fähigkeiten, Erfahrungslevel und Standortpräferenzen"],
+		"leftSectionList3CTR": ["Pre-sourced and curated to meet your hiring needs", "Pré-sourcé et organisé pour répondre à vos besoins en matière d'embauche", "Pre-Sourcing und kuratiert, um Ihre Bedürfnisse zu erfüllen"],
+		"leftSectionBottomTextCTR": ["Sign up for Free today to access and start hiring!", "Inscrivez-vous gratuitement aujourd'hui pour accéder et commencer à recruter!", "Melden Sie sich heute kostenlos an, um Zugang zu erhalten und mit der Einstellung zu beginnen!"],
+		"leftSectionTitlePERM": ["Access to Top Talent - Basic Plan", "Accès au meilleur contractant - Plan de base", "Zugang zu Top Contract Talent - Grundplan"],
+		"leftSectionListHeaderPERM": ["The top talent on our platform are:", "", ""],
+		"leftSectionList1PERM": ["Responsive and ready to be hired", "Réactif et prêt à être embauché", "Reaktionsschnell und bereit, angestellt zu werden"],
+		"leftSectionList2PERM": ["Curated top talent to meet your hiring needs", "", ""],
+		"leftSectionList3PERM": ["Pre-sourced and curated to meet your hiring needs", "Pré-sourcé et organisé pour répondre à vos besoins en matière d'embauche", "Pre-Sourcing und kuratiert, um Ihre Bedürfnisse zu erfüllen"],
+		"leftSectionBottomTextPERM": ["Sign up for Free today to access and start hiring!", "Inscrivez-vous gratuitement aujourd'hui pour accéder et commencer à recruter!", "Melden Sie sich heute kostenlos an, um Zugang zu erhalten und mit der Einstellung zu beginnen!"],
+		"leftSectionTitleCANDP": ["Access to Top Perm & Contract Talent - Basic Plan", "", ""],
+		"leftSectionListHeaderCANDP": ["The talent on our platform are:", "", ""],
+		"leftSectionList1CANDP": ["Responsive and ready to be hired", "Réactif et prêt à être embauché", "Reaktionsschnell und bereit, angestellt zu werden"],
+		"leftSectionList2CANDP": ["Curated top talent to meet your hiring needs", "", ""],
+		"leftSectionList3CANDP": ["Has a 3D resume for recruiter assist in ensuring that you find the perfect match", "", ""],
+		"leftSectionBottomTextCANDP": ["Sign up for Free today to access and start hiring!", "Inscrivez-vous gratuitement aujourd'hui pour accéder et commencer à recruter!", "Melden Sie sich heute kostenlos an, um Zugang zu erhalten und mit der Einstellung zu beginnen!"],
+		"leftSectionTitleCTRHC": ["Access to Top Contract Talent - Basic Plan", "", ""],
+		"leftSectionListHeaderCTRHC": ["The contract talent on our platform are:", "", ""],
+		"leftSectionList1CTRHC": ["Responsive and ready to be hired", "Réactif et prêt à être embauché", "Reaktionsschnell und bereit, angestellt zu werden"],
+		"leftSectionList2CTRHC": ["Searchable by their skills, experience level and location preferences", "", ""],
+		"leftSectionList3CTRHC": ["Pre-sourced and curated to meet your hiring needs", "", ""],
+		"leftSectionBottomTextCTRHC": ["Sign up for Free today to access and start hiring!", "Inscrivez-vous gratuitement aujourd'hui pour accéder et commencer à recruter!", "Melden Sie sich heute kostenlos an, um Zugang zu erhalten und mit der Einstellung zu beginnen!"],
+		"leftSectionTitlePERMHC": ["Access to Top Talent - Basic Plan", "", ""],
+		"leftSectionListHeaderPERMHC": ["The top talent on our platform are:", "", ""],
+		"leftSectionList1PERMHC": ["Responsive and ready to be hired", "Réactif et prêt à être embauché", "Reaktionsschnell und bereit, angestellt zu werden"],
+		"leftSectionList2PERMHC": ["Curated top talent to meet your hiring needs", "", ""],
+		"leftSectionList3PERMHC": ["Pre-sourced and curated to meet your hiring needs", "", ""],
+		"leftSectionBottomTextPERMHC": ["Sign up for Free today to access and start hiring!", "Inscrivez-vous gratuitement aujourd'hui pour accéder et commencer à recruter!", "Melden Sie sich heute kostenlos an, um Zugang zu erhalten und mit der Einstellung zu beginnen!"],
+		"leftSectionTitleCANDPHC": ["Access to Top Perm & Contract Talent - Basic Plan", "", ""],
+		"leftSectionListHeaderCANDPHC": ["The talent on our platform are:", "", ""],
+		"leftSectionList1CANDPHC": ["Responsive and ready to be hired", "Réactif et prêt à être embauché", "Reaktionsschnell und bereit, angestellt zu werden"],
+		"leftSectionList2CANDPHC": ["Curated top talent to meet your hiring needs", "", ""],
+		"leftSectionList3CANDPHC": ["Has a 3D resume for recruiter assist in ensuring that you find the perfect match", "", ""],
+		"leftSectionBottomTextCANDPHC": ["Sign up for Free today to access and start hiring!", "Inscrivez-vous gratuitement aujourd'hui pour accéder et commencer à recruter!", "Melden Sie sich heute kostenlos an, um Zugang zu erhalten und mit der Einstellung zu beginnen!"],
+		"leftSectionTitleENT": ["Access to Top Perm & Contract Talent", "", ""],
+		"leftSectionListHeaderENT": ["The talent on our platform are:", "", ""],
+		"leftSectionList1ENT": ["Responsive and ready to be hired", "Réactif et prêt à être embauché", "Reaktionsschnell und bereit, angestellt zu werden"],
+		"leftSectionList2ENT": ["Mapped & matched using our patented AI Technology", "", ""],
+		"leftSectionList3ENT": ["Curated to meet your hiring needs", "", ""],
+		"leftSectionList4ENT": ["Packaged with guaranteed interviews", "", ""],
+		"leftSectionBottomTextENT": ["Sign up to learn more about how this works.", "", ""],
+		"leftSectionTitleENTHC": ["Quickly Hire the Right Talent for your Roles", "", ""],
+		"leftSectionListHeaderENTHC": ["With the Recruiting-as-a-Service Membership you get:", "", ""],
+		"leftSectionList1ENTHC": ["Access to pre-vetted & pre-qualified candidates", "", ""],
+		"leftSectionList2ENTHC": ["An assigned Sourcing and Recruiting Expert", "", ""],
+		"leftSectionList3ENTHC": ["Access to Candidate rating reports, background verification, and hiring insights", "", ""],
+		"leftSectionBottomTextENTHC": ["Sign up to start hiring!", "", ""],
+		"title": ["Sign Up", "S'inscrire", "Anmelden"],
+		"emailLabel": ["Email", "Email", "Email"],
+		"emailPlaceholder": ["Email address", "Adresse électronique", "E-Mail-Addresse"],
+		"passwordPlaceholder": ["Password", "Mot de passe", "Passwort"],
+		"passwordLabel": ["Password", "Mot de passe", "Passwort"],
+		"signupBtnText": ["SIGN UP", "S'INSCRIRE", "ANMELDEN"],
+		"bottomTextPart1": ["By clicking ", "En cliquant sur ", "Indem Sie auf "],
+		"bottomTextPart2": ["Sign Up", "Inscription", "Anmelden"],
+		"bottomTextPart3": [" you are accepting our ", ", vous acceptez notre ", " klicken, akzeptieren Sie unsere "],
+		"bottomTextPart4": ["Terms of Service", "Conditions d'utilisation", "Nutzungsbedingungen"],
+		"alreadyAccountText": ["Already Have An Account?", "Vous avez déjà un compte?", "Hast du schon ein Konto?"]
+	},
+	"forgotpassword": {
+		"title": ["Forgot Your Password?", "Mot de passe oublié?", "Haben Sie Ihr Passwort vergessen?"],
+		"para1": [
+			"Hey, It happens from time to time. Just enter your email address below and we'll send you instructions on how to reset your password so you can get back in the job marketplace.",
+			"Hé, ça arrive de temps en temps. Entrez simplement votre adresse e-mail ci-dessous et nous vous enverrons des instructions pour réinitialiser votre mot de passe afin que vous puissiez revenir sur le marché du travail.",
+			"Hey, es passiert von Zeit zu Zeit. Geben Sie einfach Ihre E-Mail-Adresse ein und wir senden Ihnen Anweisungen, wie Sie Ihr Passwort zurücksetzen können, um wieder auf dem Stellenmarkt zu sein."
+		],
+		"para2": [
+			"We'll see you back inside SkillGigs shortly!",
+			"Nous vous reverrons bientôt dans SkillGigs!",
+			"Wir sehen uns bald wieder in SkillGigs!"
+		],
+		"emailLabel": ["Email", "Email", "Email"],
+		"emailPlaceholder": ["Email address", "Adresse électronique", "E-Mail-Addresse"],
+		"sendResetBtnText": ["SEND RESET INSTRUCTIONS", "ENVOYER DES INSTRUCTIONS DE RÉINITIALISATION", "RESET ANWEISUNGEN SENDEN"]
+	},
+	"resendconfirmation": {
+		"title": ["Resend Your Confirmation Email?", "Senden Sie Ihre Bestätigungs-E-Mail erneut?", "Renvoyer votre email de confirmation?"],
+		"para1": [
+			"Hey, It happens from time to time. Just enter your email address below and we'll send you your confirmation email so you can get started in the job marketplace.",
+			"Hé, ça arrive de temps en temps. Entrez simplement votre adresse email ci-dessous et nous vous enverrons votre email de confirmation afin que vous puissiez vous lancer sur le marché de l'emploi.",
+			"Hey, es passiert von Zeit zu Zeit. Geben Sie einfach Ihre E-Mail-Adresse ein und wir senden Ihnen Ihre Bestätigungs-E-Mail, damit Sie auf dem Stellenmarkt anfangen können."
+		],
+		"para2": [
+			"We'll see you inside SkillGigs shortly!",
+			"Nous vous verrons bientôt dans SkillGigs!",
+			"Wir sehen uns bald in SkillGigs!"
+		],
+		"emailLabel": ["Email", "Email", "Email"],
+		"emailPlaceholder": ["Email address", "Adresse électronique", "E-Mail-Addresse"],
+		"sendConfirmationBtnText": ["SEND CONFIRMATION EMAIL", "ENVOYER UN E-MAIL DE CONFIRMATION", "Sende Bestätigungsmail"]
+	},
+	"error": {
+		"header": ["There was some error with your submission", "Il y a eu une erreur dans votre soumission", "Bei der Übermittlung ist ein Fehler aufgetreten"],
+		"emailErrorText": ["You must enter valid email ID", "Vous devez entrer un email valide", "Sie müssen eine gültige E-Mail-ID eingeben"],
+		"passwordText": ["Password cannot be empty", "Le mot de passe ne peut pas être vide", "Passwort kann nicht leer sein"],
+		"fullnameErrorText" : ["You must enter valid name", "Vous devez entrer un nom valide", "Sie müssen einen gültigen Namen eingeben"]
+	},
+	"notFound": {
+		"header": ["Oops!", "", ""],
+		"para": ["We can't seem to find the page you're looking for.", "", ""],
+		"buttonText": ["RETURN HOME" , "", ""]
+	},
+	"errorPage": {
+		"header": ["Oops!", "", ""],
+		"para": ["There is some error in server. Please retry after sometime.", "", ""],
+		"buttonText": ["RETURN HOME" , "", ""]
+	}
+}
